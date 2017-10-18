@@ -640,6 +640,7 @@ pre code {
 .row {
   display: -ms-flexbox;
   display: flex;
+  justify-content: space-between;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
   margin-right: -15px;
@@ -5287,7 +5288,7 @@ a.bg-light:focus, a.bg-light:hover {
 }
 
 .bg-dark {
-  background-color: #343a40 !important;
+  background-color: #403f34 !important;
 }
 
 a.bg-dark:focus, a.bg-dark:hover {
